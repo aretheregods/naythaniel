@@ -214,14 +214,6 @@ app.get("/", (c) => {
                 <p class="work-text">
                   An e-commerce site for selling and marketing poetry.
                 </p>
-                <!-- Add technologies you used to build the project -->
-                <ol class="work-technologies">
-                  <li>Hono</li>
-                  <li>Cloudflare Workers</li>
-                  <li>JavaScript</li>
-                  <li>CSS</li>
-                  <li>HTML</li>
-                </ol>
 
                 <div class="work-links">
                   <!-- Add url of project in href attribute -->
@@ -258,12 +250,6 @@ app.get("/", (c) => {
                 <!-- Add small description of your project  -->
 
                 <p class="work-text">Website for Songtrust.</p>
-                <ol class="work-technologies">
-                  <li>React</li>
-                  <li>GraphQL</li>
-                  <li>Django</li>
-                  <li>PostgresQL</li>
-                </ol>
                 <div class="work-links">
                   <!-- Add url of project in href attribute -->
                   <a href="#" target="_blank" rel="noopener" class="link"
